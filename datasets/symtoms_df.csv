@@ -99,36 +99,36 @@
 97,Bronchial Asthma, fatigue, cough, high fever, breathlessness
 98,Bronchial Asthma, cough, high fever, breathlessness, family_history
 99,Bronchial Asthma, fatigue, high fever, breathlessness, family_history
-100,Hypertension , headache, chest pain, dizziness, loss_of_balance
-101,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-102,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-103,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
+100,Hypertension , headache, chest pain, dizziness, loss of balance
+101,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+102,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+103,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
 104,Hypertension , headache, chest pain, dizziness, lack_of_concentration
-105,Hypertension , headache, chest pain, dizziness, loss_of_balance
-106,Hypertension , headache, chest pain, dizziness, loss_of_balance
-107,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-108,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-109,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
-110,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-111,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive hunger
-112,Migraine, acidity, headache, blurred_and_distorted_vision, excessive hunger
-113,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive hunger
+105,Hypertension , headache, chest pain, dizziness, loss of balance
+106,Hypertension , headache, chest pain, dizziness, loss of balance
+107,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+108,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+109,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
+110,Migraine, acidity, indigestion, headache, blurred and distorted vision
+111,Migraine, indigestion, headache, blurred and distorted vision, excessive hunger
+112,Migraine, acidity, headache, blurred and distorted vision, excessive hunger
+113,Migraine, acidity, indigestion, blurred and distorted vision, excessive hunger
 114,Migraine, acidity, indigestion, headache, excessive hunger
-115,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-116,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-117,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-118,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-119,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+115,Migraine, acidity, indigestion, headache, blurred and distorted vision
+116,Migraine, acidity, indigestion, headache, blurred and distorted vision
+117,Migraine, acidity, indigestion, headache, blurred and distorted vision
+118,Migraine, acidity, indigestion, headache, blurred and distorted vision
+119,Migraine, acidity, indigestion, headache, blurred and distorted vision
 120,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 121,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-122,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-123,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
-124,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss_of_balance
-125,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss_of_balance
+122,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+123,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
+124,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss of balance
+125,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss of balance
 126,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 127,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-128,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-129,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
+128,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+129,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
 130,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 131,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 132,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
@@ -361,14 +361,14 @@
 359,Arthritis, muscle weakness, stiff_neck, swelling_joints, movement_stiffness
 360,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 361,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-362,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance
-363,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance
-364,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance
-365,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+362,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss of balance
+363,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss of balance
+364,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss of balance
+365,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 366,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 367,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 368,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-369,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+369,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 370,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 371,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 372,Acne, pus_filled_pimples, blackheads, scurring,
@@ -509,36 +509,36 @@
 507,Bronchial Asthma, fatigue, cough, high fever, breathlessness
 508,Bronchial Asthma, cough, high fever, breathlessness, family_history
 509,Bronchial Asthma, fatigue, high fever, breathlessness, family_history
-510,Hypertension , headache, chest pain, dizziness, loss_of_balance
-511,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-512,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-513,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
+510,Hypertension , headache, chest pain, dizziness, loss of balance
+511,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+512,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+513,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
 514,Hypertension , headache, chest pain, dizziness, lack_of_concentration
-515,Hypertension , headache, chest pain, dizziness, loss_of_balance
-516,Hypertension , headache, chest pain, dizziness, loss_of_balance
-517,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-518,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-519,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
-520,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-521,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive hunger
-522,Migraine, acidity, headache, blurred_and_distorted_vision, excessive hunger
-523,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive hunger
+515,Hypertension , headache, chest pain, dizziness, loss of balance
+516,Hypertension , headache, chest pain, dizziness, loss of balance
+517,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+518,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+519,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
+520,Migraine, acidity, indigestion, headache, blurred and distorted vision
+521,Migraine, indigestion, headache, blurred and distorted vision, excessive hunger
+522,Migraine, acidity, headache, blurred and distorted vision, excessive hunger
+523,Migraine, acidity, indigestion, blurred and distorted vision, excessive hunger
 524,Migraine, acidity, indigestion, headache, excessive hunger
-525,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-526,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-527,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-528,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-529,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+525,Migraine, acidity, indigestion, headache, blurred and distorted vision
+526,Migraine, acidity, indigestion, headache, blurred and distorted vision
+527,Migraine, acidity, indigestion, headache, blurred and distorted vision
+528,Migraine, acidity, indigestion, headache, blurred and distorted vision
+529,Migraine, acidity, indigestion, headache, blurred and distorted vision
 530,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 531,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-532,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-533,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
-534,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss_of_balance
-535,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss_of_balance
+532,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+533,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
+534,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss of balance
+535,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss of balance
 536,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 537,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-538,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-539,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
+538,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+539,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
 540,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 541,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 542,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
@@ -771,14 +771,14 @@
 769,Arthritis, muscle weakness, stiff_neck, swelling_joints, movement_stiffness
 770,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 771,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-772,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance
-773,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance
-774,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance
-775,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+772,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss of balance
+773,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss of balance
+774,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss of balance
+775,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 776,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 777,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 778,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-779,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+779,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 780,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 781,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 782,Acne, pus_filled_pimples, blackheads, scurring,
@@ -919,36 +919,36 @@
 917,Bronchial Asthma, fatigue, cough, high fever, breathlessness
 918,Bronchial Asthma, cough, high fever, breathlessness, family_history
 919,Bronchial Asthma, fatigue, high fever, breathlessness, family_history
-920,Hypertension , headache, chest pain, dizziness, loss_of_balance
-921,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-922,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-923,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
+920,Hypertension , headache, chest pain, dizziness, loss of balance
+921,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+922,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+923,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
 924,Hypertension , headache, chest pain, dizziness, lack_of_concentration
-925,Hypertension , headache, chest pain, dizziness, loss_of_balance
-926,Hypertension , headache, chest pain, dizziness, loss_of_balance
-927,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-928,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-929,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
-930,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-931,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive hunger
-932,Migraine, acidity, headache, blurred_and_distorted_vision, excessive hunger
-933,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive hunger
+925,Hypertension , headache, chest pain, dizziness, loss of balance
+926,Hypertension , headache, chest pain, dizziness, loss of balance
+927,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+928,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+929,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
+930,Migraine, acidity, indigestion, headache, blurred and distorted vision
+931,Migraine, indigestion, headache, blurred and distorted vision, excessive hunger
+932,Migraine, acidity, headache, blurred and distorted vision, excessive hunger
+933,Migraine, acidity, indigestion, blurred and distorted vision, excessive hunger
 934,Migraine, acidity, indigestion, headache, excessive hunger
-935,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-936,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-937,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-938,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-939,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+935,Migraine, acidity, indigestion, headache, blurred and distorted vision
+936,Migraine, acidity, indigestion, headache, blurred and distorted vision
+937,Migraine, acidity, indigestion, headache, blurred and distorted vision
+938,Migraine, acidity, indigestion, headache, blurred and distorted vision
+939,Migraine, acidity, indigestion, headache, blurred and distorted vision
 940,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 941,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-942,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-943,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
-944,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss_of_balance
-945,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss_of_balance
+942,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+943,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
+944,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss of balance
+945,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss of balance
 946,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 947,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-948,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-949,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
+948,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+949,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
 950,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 951,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 952,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
@@ -1181,14 +1181,14 @@
 1179,Arthritis, muscle weakness, stiff_neck, swelling_joints, movement_stiffness
 1180,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 1181,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-1182,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance
-1183,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance
-1184,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance
-1185,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+1182,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss of balance
+1183,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss of balance
+1184,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss of balance
+1185,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 1186,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 1187,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 1188,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-1189,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+1189,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 1190,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 1191,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 1192,Acne, pus_filled_pimples, blackheads, scurring,
@@ -1329,36 +1329,36 @@
 1327,Bronchial Asthma, fatigue, cough, high fever, breathlessness
 1328,Bronchial Asthma, cough, high fever, breathlessness, family_history
 1329,Bronchial Asthma, fatigue, high fever, breathlessness, family_history
-1330,Hypertension , headache, chest pain, dizziness, loss_of_balance
-1331,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-1332,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1333,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
+1330,Hypertension , headache, chest pain, dizziness, loss of balance
+1331,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+1332,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+1333,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
 1334,Hypertension , headache, chest pain, dizziness, lack_of_concentration
-1335,Hypertension , headache, chest pain, dizziness, loss_of_balance
-1336,Hypertension , headache, chest pain, dizziness, loss_of_balance
-1337,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-1338,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1339,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
-1340,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1341,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive hunger
-1342,Migraine, acidity, headache, blurred_and_distorted_vision, excessive hunger
-1343,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive hunger
+1335,Hypertension , headache, chest pain, dizziness, loss of balance
+1336,Hypertension , headache, chest pain, dizziness, loss of balance
+1337,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+1338,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+1339,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
+1340,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1341,Migraine, indigestion, headache, blurred and distorted vision, excessive hunger
+1342,Migraine, acidity, headache, blurred and distorted vision, excessive hunger
+1343,Migraine, acidity, indigestion, blurred and distorted vision, excessive hunger
 1344,Migraine, acidity, indigestion, headache, excessive hunger
-1345,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1346,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1347,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1348,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1349,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1345,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1346,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1347,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1348,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1349,Migraine, acidity, indigestion, headache, blurred and distorted vision
 1350,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 1351,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-1352,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-1353,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
-1354,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss_of_balance
-1355,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss_of_balance
+1352,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+1353,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
+1354,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss of balance
+1355,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss of balance
 1356,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 1357,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-1358,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-1359,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
+1358,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+1359,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
 1360,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 1361,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 1362,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
@@ -1591,14 +1591,14 @@
 1589,Arthritis, muscle weakness, stiff_neck, swelling_joints, movement_stiffness
 1590,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 1591,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-1592,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance
-1593,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance
-1594,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance
-1595,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+1592,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss of balance
+1593,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss of balance
+1594,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss of balance
+1595,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 1596,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 1597,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 1598,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-1599,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+1599,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 1600,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 1601,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 1602,Acne, pus_filled_pimples, blackheads, scurring,
@@ -1739,36 +1739,36 @@
 1737,Bronchial Asthma, fatigue, cough, high fever, breathlessness
 1738,Bronchial Asthma, cough, high fever, breathlessness, family_history
 1739,Bronchial Asthma, fatigue, high fever, breathlessness, family_history
-1740,Hypertension , headache, chest pain, dizziness, loss_of_balance
-1741,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-1742,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1743,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
+1740,Hypertension , headache, chest pain, dizziness, loss of balance
+1741,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+1742,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+1743,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
 1744,Hypertension , headache, chest pain, dizziness, lack_of_concentration
-1745,Hypertension , headache, chest pain, dizziness, loss_of_balance
-1746,Hypertension , headache, chest pain, dizziness, loss_of_balance
-1747,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-1748,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1749,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
-1750,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1751,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive hunger
-1752,Migraine, acidity, headache, blurred_and_distorted_vision, excessive hunger
-1753,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive hunger
+1745,Hypertension , headache, chest pain, dizziness, loss of balance
+1746,Hypertension , headache, chest pain, dizziness, loss of balance
+1747,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+1748,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+1749,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
+1750,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1751,Migraine, indigestion, headache, blurred and distorted vision, excessive hunger
+1752,Migraine, acidity, headache, blurred and distorted vision, excessive hunger
+1753,Migraine, acidity, indigestion, blurred and distorted vision, excessive hunger
 1754,Migraine, acidity, indigestion, headache, excessive hunger
-1755,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1756,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1757,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1758,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-1759,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+1755,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1756,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1757,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1758,Migraine, acidity, indigestion, headache, blurred and distorted vision
+1759,Migraine, acidity, indigestion, headache, blurred and distorted vision
 1760,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 1761,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-1762,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-1763,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
-1764,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss_of_balance
-1765,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss_of_balance
+1762,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+1763,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
+1764,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss of balance
+1765,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss of balance
 1766,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 1767,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-1768,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-1769,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
+1768,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+1769,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
 1770,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 1771,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 1772,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
@@ -2001,14 +2001,14 @@
 1999,Arthritis, muscle weakness, stiff_neck, swelling_joints, movement_stiffness
 2000,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 2001,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-2002,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance
-2003,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance
-2004,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance
-2005,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+2002,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss of balance
+2003,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss of balance
+2004,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss of balance
+2005,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 2006,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 2007,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 2008,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-2009,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+2009,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 2010,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 2011,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 2012,Acne, pus_filled_pimples, blackheads, scurring,
@@ -2149,36 +2149,36 @@
 2147,Bronchial Asthma, fatigue, cough, high fever, breathlessness
 2148,Bronchial Asthma, cough, high fever, breathlessness, family_history
 2149,Bronchial Asthma, fatigue, high fever, breathlessness, family_history
-2150,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2151,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-2152,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-2153,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
+2150,Hypertension , headache, chest pain, dizziness, loss of balance
+2151,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+2152,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+2153,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
 2154,Hypertension , headache, chest pain, dizziness, lack_of_concentration
-2155,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2156,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2157,Hypertension , chest pain, dizziness, loss_of_balance, lack_of_concentration
-2158,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-2159,Hypertension , headache, chest pain, loss_of_balance, lack_of_concentration
-2160,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-2161,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive hunger
-2162,Migraine, acidity, headache, blurred_and_distorted_vision, excessive hunger
-2163,Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive hunger
+2155,Hypertension , headache, chest pain, dizziness, loss of balance
+2156,Hypertension , headache, chest pain, dizziness, loss of balance
+2157,Hypertension , chest pain, dizziness, loss of balance, lack_of_concentration
+2158,Hypertension , headache, dizziness, loss of balance, lack_of_concentration
+2159,Hypertension , headache, chest pain, loss of balance, lack_of_concentration
+2160,Migraine, acidity, indigestion, headache, blurred and distorted vision
+2161,Migraine, indigestion, headache, blurred and distorted vision, excessive hunger
+2162,Migraine, acidity, headache, blurred and distorted vision, excessive hunger
+2163,Migraine, acidity, indigestion, blurred and distorted vision, excessive hunger
 2164,Migraine, acidity, indigestion, headache, excessive hunger
-2165,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-2166,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-2167,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-2168,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
-2169,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2165,Migraine, acidity, indigestion, headache, blurred and distorted vision
+2166,Migraine, acidity, indigestion, headache, blurred and distorted vision
+2167,Migraine, acidity, indigestion, headache, blurred and distorted vision
+2168,Migraine, acidity, indigestion, headache, blurred and distorted vision
+2169,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2170,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2171,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-2172,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-2173,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
-2174,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss_of_balance
-2175,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss_of_balance
+2172,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+2173,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
+2174,Cervical spondylosis, back pain, weakness_in_limbs, dizziness, loss of balance
+2175,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, loss of balance
 2176,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2177,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
-2178,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss_of_balance
-2179,Cervical spondylosis, back pain, neck pain, dizziness, loss_of_balance
+2178,Cervical spondylosis, weakness_in_limbs, neck pain, dizziness, loss of balance
+2179,Cervical spondylosis, back pain, neck pain, dizziness, loss of balance
 2180,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2181,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2182,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
@@ -2411,14 +2411,14 @@
 2409,Arthritis, muscle weakness, stiff_neck, swelling_joints, movement_stiffness
 2410,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 2411,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-2412,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss_of_balance
-2413,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss_of_balance
-2414,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss_of_balance
-2415,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+2412,(vertigo) Paroymsal  Positional Vertigo, headache, nausea, spinning_movements, loss of balance
+2413,(vertigo) Paroymsal  Positional Vertigo, vomiting, nausea, spinning_movements, loss of balance
+2414,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, spinning_movements, loss of balance
+2415,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 2416,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 2417,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
 2418,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements
-2419,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance
+2419,(vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss of balance
 2420,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 2421,Acne, skin rash, pus_filled_pimples, blackheads, scurring
 2422,Acne, pus_filled_pimples, blackheads, scurring,
@@ -2469,8 +2469,8 @@
 2467,Diabetes , fatigue, weight loss, restlessness, lethargy
 2468,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2469,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2470,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2471,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2470,Hypertension , headache, chest pain, dizziness, loss of balance
+2471,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2472,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2473,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2474,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2510,8 +2510,8 @@
 2508,Diabetes , fatigue, weight loss, restlessness, lethargy
 2509,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2510,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2511,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2512,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2511,Hypertension , headache, chest pain, dizziness, loss of balance
+2512,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2513,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2514,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2515,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2551,8 +2551,8 @@
 2549,Diabetes , fatigue, weight loss, restlessness, lethargy
 2550,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2551,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2552,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2553,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2552,Hypertension , headache, chest pain, dizziness, loss of balance
+2553,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2554,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2555,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2556,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2592,8 +2592,8 @@
 2590,Diabetes , fatigue, weight loss, restlessness, lethargy
 2591,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2592,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2593,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2594,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2593,Hypertension , headache, chest pain, dizziness, loss of balance
+2594,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2595,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2596,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2597,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2633,8 +2633,8 @@
 2631,Diabetes , fatigue, weight loss, restlessness, lethargy
 2632,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2633,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2634,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2635,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2634,Hypertension , headache, chest pain, dizziness, loss of balance
+2635,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2636,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2637,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2638,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2674,8 +2674,8 @@
 2672,Diabetes , fatigue, weight loss, restlessness, lethargy
 2673,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2674,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2675,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2676,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2675,Hypertension , headache, chest pain, dizziness, loss of balance
+2676,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2677,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2678,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2679,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2715,8 +2715,8 @@
 2713,Diabetes , fatigue, weight loss, restlessness, lethargy
 2714,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2715,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2716,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2717,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2716,Hypertension , headache, chest pain, dizziness, loss of balance
+2717,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2718,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2719,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2720,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2756,8 +2756,8 @@
 2754,Diabetes , fatigue, weight loss, restlessness, lethargy
 2755,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2756,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2757,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2758,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2757,Hypertension , headache, chest pain, dizziness, loss of balance
+2758,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2759,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2760,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2761,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2797,8 +2797,8 @@
 2795,Diabetes , fatigue, weight loss, restlessness, lethargy
 2796,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2797,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2798,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2799,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2798,Hypertension , headache, chest pain, dizziness, loss of balance
+2799,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2800,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2801,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2802,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2838,8 +2838,8 @@
 2836,Diabetes , fatigue, weight loss, restlessness, lethargy
 2837,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2838,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2839,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2840,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2839,Hypertension , headache, chest pain, dizziness, loss of balance
+2840,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2841,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2842,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2843,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2879,8 +2879,8 @@
 2877,Diabetes , fatigue, weight loss, restlessness, lethargy
 2878,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2879,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2880,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2881,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2880,Hypertension , headache, chest pain, dizziness, loss of balance
+2881,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2882,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2883,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2884,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2920,8 +2920,8 @@
 2918,Diabetes , fatigue, weight loss, restlessness, lethargy
 2919,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2920,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2921,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2922,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2921,Hypertension , headache, chest pain, dizziness, loss of balance
+2922,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2923,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2924,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2925,Jaundice,itching, vomiting, fatigue, weight loss
@@ -2961,8 +2961,8 @@
 2959,Diabetes , fatigue, weight loss, restlessness, lethargy
 2960,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2961,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-2962,Hypertension , headache, chest pain, dizziness, loss_of_balance
-2963,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+2962,Hypertension , headache, chest pain, dizziness, loss of balance
+2963,Migraine, acidity, indigestion, headache, blurred and distorted vision
 2964,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 2965,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 2966,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3002,8 +3002,8 @@
 3000,Diabetes , fatigue, weight loss, restlessness, lethargy
 3001,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3002,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3003,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3004,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3003,Hypertension , headache, chest pain, dizziness, loss of balance
+3004,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3005,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3006,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3007,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3043,8 +3043,8 @@
 3041,Diabetes , fatigue, weight loss, restlessness, lethargy
 3042,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3043,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3044,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3045,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3044,Hypertension , headache, chest pain, dizziness, loss of balance
+3045,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3046,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3047,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3048,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3084,8 +3084,8 @@
 3082,Diabetes , fatigue, weight loss, restlessness, lethargy
 3083,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3084,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3085,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3086,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3085,Hypertension , headache, chest pain, dizziness, loss of balance
+3086,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3087,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3088,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3089,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3125,8 +3125,8 @@
 3123,Diabetes , fatigue, weight loss, restlessness, lethargy
 3124,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3125,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3126,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3127,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3126,Hypertension , headache, chest pain, dizziness, loss of balance
+3127,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3128,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3129,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3130,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3166,8 +3166,8 @@
 3164,Diabetes , fatigue, weight loss, restlessness, lethargy
 3165,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3166,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3167,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3168,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3167,Hypertension , headache, chest pain, dizziness, loss of balance
+3168,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3169,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3170,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3171,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3207,8 +3207,8 @@
 3205,Diabetes , fatigue, weight loss, restlessness, lethargy
 3206,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3207,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3208,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3209,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3208,Hypertension , headache, chest pain, dizziness, loss of balance
+3209,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3210,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3211,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3212,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3248,8 +3248,8 @@
 3246,Diabetes , fatigue, weight loss, restlessness, lethargy
 3247,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3248,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3249,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3250,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3249,Hypertension , headache, chest pain, dizziness, loss of balance
+3250,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3251,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3252,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3253,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3289,8 +3289,8 @@
 3287,Diabetes , fatigue, weight loss, restlessness, lethargy
 3288,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3289,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3290,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3291,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3290,Hypertension , headache, chest pain, dizziness, loss of balance
+3291,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3292,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3293,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3294,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3330,8 +3330,8 @@
 3328,Diabetes , fatigue, weight loss, restlessness, lethargy
 3329,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3330,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3331,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3332,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3331,Hypertension , headache, chest pain, dizziness, loss of balance
+3332,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3333,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3334,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3335,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3371,8 +3371,8 @@
 3369,Diabetes , fatigue, weight loss, restlessness, lethargy
 3370,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3371,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3372,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3373,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3372,Hypertension , headache, chest pain, dizziness, loss of balance
+3373,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3374,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3375,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3376,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3412,8 +3412,8 @@
 3410,Diabetes , fatigue, weight loss, restlessness, lethargy
 3411,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3412,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3413,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3414,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3413,Hypertension , headache, chest pain, dizziness, loss of balance
+3414,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3415,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3416,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3417,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3453,8 +3453,8 @@
 3451,Diabetes , fatigue, weight loss, restlessness, lethargy
 3452,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3453,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3454,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3455,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3454,Hypertension , headache, chest pain, dizziness, loss of balance
+3455,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3456,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3457,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3458,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3494,8 +3494,8 @@
 3492,Diabetes , fatigue, weight loss, restlessness, lethargy
 3493,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3494,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3495,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3496,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3495,Hypertension , headache, chest pain, dizziness, loss of balance
+3496,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3497,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3498,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3499,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3535,8 +3535,8 @@
 3533,Diabetes , fatigue, weight loss, restlessness, lethargy
 3534,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3535,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3536,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3537,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3536,Hypertension , headache, chest pain, dizziness, loss of balance
+3537,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3538,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3539,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3540,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3576,8 +3576,8 @@
 3574,Diabetes , fatigue, weight loss, restlessness, lethargy
 3575,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3576,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3577,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3578,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3577,Hypertension , headache, chest pain, dizziness, loss of balance
+3578,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3579,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3580,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3581,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3617,8 +3617,8 @@
 3615,Diabetes , fatigue, weight loss, restlessness, lethargy
 3616,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3617,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3618,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3619,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3618,Hypertension , headache, chest pain, dizziness, loss of balance
+3619,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3620,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3621,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3622,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3658,8 +3658,8 @@
 3656,Diabetes , fatigue, weight loss, restlessness, lethargy
 3657,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3658,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3659,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3660,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3659,Hypertension , headache, chest pain, dizziness, loss of balance
+3660,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3661,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3662,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3663,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3699,8 +3699,8 @@
 3697,Diabetes , fatigue, weight loss, restlessness, lethargy
 3698,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3699,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3700,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3701,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3700,Hypertension , headache, chest pain, dizziness, loss of balance
+3701,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3702,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3703,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3704,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3740,8 +3740,8 @@
 3738,Diabetes , fatigue, weight loss, restlessness, lethargy
 3739,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3740,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3741,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3742,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3741,Hypertension , headache, chest pain, dizziness, loss of balance
+3742,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3743,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3744,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3745,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3781,8 +3781,8 @@
 3779,Diabetes , fatigue, weight loss, restlessness, lethargy
 3780,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3781,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3782,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3783,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3782,Hypertension , headache, chest pain, dizziness, loss of balance
+3783,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3784,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3785,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3786,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3822,8 +3822,8 @@
 3820,Diabetes , fatigue, weight loss, restlessness, lethargy
 3821,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3822,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3823,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3824,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3823,Hypertension , headache, chest pain, dizziness, loss of balance
+3824,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3825,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3826,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3827,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3863,8 +3863,8 @@
 3861,Diabetes , fatigue, weight loss, restlessness, lethargy
 3862,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3863,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3864,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3865,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3864,Hypertension , headache, chest pain, dizziness, loss of balance
+3865,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3866,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3867,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3868,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3904,8 +3904,8 @@
 3902,Diabetes , fatigue, weight loss, restlessness, lethargy
 3903,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3904,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3905,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3906,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3905,Hypertension , headache, chest pain, dizziness, loss of balance
+3906,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3907,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3908,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3909,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3945,8 +3945,8 @@
 3943,Diabetes , fatigue, weight loss, restlessness, lethargy
 3944,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3945,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3946,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3947,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3946,Hypertension , headache, chest pain, dizziness, loss of balance
+3947,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3948,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3949,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3950,Jaundice,itching, vomiting, fatigue, weight loss
@@ -3986,8 +3986,8 @@
 3984,Diabetes , fatigue, weight loss, restlessness, lethargy
 3985,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3986,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-3987,Hypertension , headache, chest pain, dizziness, loss_of_balance
-3988,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+3987,Hypertension , headache, chest pain, dizziness, loss of balance
+3988,Migraine, acidity, indigestion, headache, blurred and distorted vision
 3989,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 3990,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 3991,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4027,8 +4027,8 @@
 4025,Diabetes , fatigue, weight loss, restlessness, lethargy
 4026,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4027,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4028,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4029,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4028,Hypertension , headache, chest pain, dizziness, loss of balance
+4029,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4030,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4031,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4032,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4068,8 +4068,8 @@
 4066,Diabetes , fatigue, weight loss, restlessness, lethargy
 4067,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4068,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4069,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4070,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4069,Hypertension , headache, chest pain, dizziness, loss of balance
+4070,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4071,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4072,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4073,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4109,8 +4109,8 @@
 4107,Diabetes , fatigue, weight loss, restlessness, lethargy
 4108,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4109,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4110,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4111,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4110,Hypertension , headache, chest pain, dizziness, loss of balance
+4111,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4112,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4113,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4114,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4150,8 +4150,8 @@
 4148,Diabetes , fatigue, weight loss, restlessness, lethargy
 4149,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4150,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4151,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4152,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4151,Hypertension , headache, chest pain, dizziness, loss of balance
+4152,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4153,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4154,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4155,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4191,8 +4191,8 @@
 4189,Diabetes , fatigue, weight loss, restlessness, lethargy
 4190,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4191,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4192,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4193,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4192,Hypertension , headache, chest pain, dizziness, loss of balance
+4193,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4194,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4195,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4196,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4232,8 +4232,8 @@
 4230,Diabetes , fatigue, weight loss, restlessness, lethargy
 4231,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4232,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4233,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4234,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4233,Hypertension , headache, chest pain, dizziness, loss of balance
+4234,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4235,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4236,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4237,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4273,8 +4273,8 @@
 4271,Diabetes , fatigue, weight loss, restlessness, lethargy
 4272,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4273,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4274,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4275,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4274,Hypertension , headache, chest pain, dizziness, loss of balance
+4275,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4276,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4277,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4278,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4314,8 +4314,8 @@
 4312,Diabetes , fatigue, weight loss, restlessness, lethargy
 4313,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4314,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4315,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4316,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4315,Hypertension , headache, chest pain, dizziness, loss of balance
+4316,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4317,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4318,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4319,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4355,8 +4355,8 @@
 4353,Diabetes , fatigue, weight loss, restlessness, lethargy
 4354,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4355,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4356,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4357,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4356,Hypertension , headache, chest pain, dizziness, loss of balance
+4357,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4358,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4359,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4360,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4396,8 +4396,8 @@
 4394,Diabetes , fatigue, weight loss, restlessness, lethargy
 4395,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4396,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4397,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4398,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4397,Hypertension , headache, chest pain, dizziness, loss of balance
+4398,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4399,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4400,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4401,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4437,8 +4437,8 @@
 4435,Diabetes , fatigue, weight loss, restlessness, lethargy
 4436,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4437,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4438,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4439,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4438,Hypertension , headache, chest pain, dizziness, loss of balance
+4439,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4440,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4441,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4442,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4478,8 +4478,8 @@
 4476,Diabetes , fatigue, weight loss, restlessness, lethargy
 4477,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4478,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4479,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4480,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4479,Hypertension , headache, chest pain, dizziness, loss of balance
+4480,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4481,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4482,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4483,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4519,8 +4519,8 @@
 4517,Diabetes , fatigue, weight loss, restlessness, lethargy
 4518,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4519,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4520,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4521,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4520,Hypertension , headache, chest pain, dizziness, loss of balance
+4521,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4522,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4523,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4524,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4560,8 +4560,8 @@
 4558,Diabetes , fatigue, weight loss, restlessness, lethargy
 4559,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4560,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4561,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4562,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4561,Hypertension , headache, chest pain, dizziness, loss of balance
+4562,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4563,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4564,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4565,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4601,8 +4601,8 @@
 4599,Diabetes , fatigue, weight loss, restlessness, lethargy
 4600,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4601,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4602,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4603,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4602,Hypertension , headache, chest pain, dizziness, loss of balance
+4603,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4604,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4605,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4606,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4642,8 +4642,8 @@
 4640,Diabetes , fatigue, weight loss, restlessness, lethargy
 4641,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4642,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4643,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4644,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4643,Hypertension , headache, chest pain, dizziness, loss of balance
+4644,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4645,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4646,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4647,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4683,8 +4683,8 @@
 4681,Diabetes , fatigue, weight loss, restlessness, lethargy
 4682,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4683,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4684,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4685,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4684,Hypertension , headache, chest pain, dizziness, loss of balance
+4685,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4686,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4687,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4688,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4724,8 +4724,8 @@
 4722,Diabetes , fatigue, weight loss, restlessness, lethargy
 4723,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4724,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4725,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4726,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4725,Hypertension , headache, chest pain, dizziness, loss of balance
+4726,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4727,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4728,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4729,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4765,8 +4765,8 @@
 4763,Diabetes , fatigue, weight loss, restlessness, lethargy
 4764,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4765,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4766,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4767,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4766,Hypertension , headache, chest pain, dizziness, loss of balance
+4767,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4768,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4769,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4770,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4806,8 +4806,8 @@
 4804,Diabetes , fatigue, weight loss, restlessness, lethargy
 4805,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4806,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4807,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4808,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4807,Hypertension , headache, chest pain, dizziness, loss of balance
+4808,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4809,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4810,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4811,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4847,8 +4847,8 @@
 4845,Diabetes , fatigue, weight loss, restlessness, lethargy
 4846,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4847,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4848,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4849,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4848,Hypertension , headache, chest pain, dizziness, loss of balance
+4849,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4850,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4851,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4852,Jaundice,itching, vomiting, fatigue, weight loss
@@ -4888,8 +4888,8 @@
 4886,Diabetes , fatigue, weight loss, restlessness, lethargy
 4887,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4888,Bronchial Asthma, fatigue, cough, high fever, breathlessness
-4889,Hypertension , headache, chest pain, dizziness, loss_of_balance
-4890,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
+4889,Hypertension , headache, chest pain, dizziness, loss of balance
+4890,Migraine, acidity, indigestion, headache, blurred and distorted vision
 4891,Cervical spondylosis, back pain, weakness_in_limbs, neck pain, dizziness
 4892,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 4893,Jaundice,itching, vomiting, fatigue, weight loss
