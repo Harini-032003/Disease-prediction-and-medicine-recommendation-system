@@ -20,7 +20,7 @@
             height: 50px;
             color: black;
             margin-top: 0;
-            margin-left: 2px;
+            margin-left: 5px;
         }
 
         .myimg {
@@ -29,7 +29,27 @@
             border: 2px solid black;
             border-radius: 25px;
         }
-
+        .button {
+            padding: 15px 25px;
+            font-size: 24px;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            color: #000000;
+            background-color: #E18A8A;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 9px #999;
+            margin-left:35px;
+          }
+          
+          .button:hover {background-color: #943232}
+          
+          .button:active {
+            background-color: #943232;
+            box-shadow: 0 5px #666;
+            transform: translateY(4px);
+          }
 
 
 
@@ -54,13 +74,13 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about">About</a>
+                        <a class="nav-link" >About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/contact">Contact</a>
+                        <a class="nav-link" >Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/blog">Blog</a>
+                        <a class="nav-link" >Blog</a>
                     </li>
                 </ul>
                 
@@ -73,7 +93,7 @@
 
 <!-- main form of page -->
 <h1 class="mt-4 my-4 text-center text-green">Health Care Center</h1>
-<div class="container my-4 mt-4" style="background: black; color: white; border-radius: 15px; padding: 40px;">
+<div class="container my-4 mt-4" style="background: rgba(0, 0, 0, 0.85); color: white; border-radius: 15px; padding: 40px;">
     <form action="/predict" method="post">
         <div class="form-group">
             <label for="symptoms">Select Symptoms:</label>
@@ -111,12 +131,12 @@
 
     <div class="result-container">
         <!-- Buttons to toggle display -->
-        <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#diseaseModal" style="padding:4px;  margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#F39334;color:black;">Disease</button>
-        <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#descriptionModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#268AF3 ;color:black;">Description</button>
-        <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#precautionModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#F371F9 ;color:black;">Precaution</button>
-        <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#medicationsModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px;border-radius:5px; background:#F8576F ;color:black;">Medications</button>
-        <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#workoutsModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#99F741 ;color:black;">Workouts</button>
-        <button class="toggle-button" data-bs-toggle="modal" data-bs-target="#dietsModal" style="padding:4px; margin: 5px 40px 5px 0; font-size:20px;font-weight:bold; width:140px; border-radius:5px; background:#E5E23D;color:black;">Diets</button>
+        <button class="button" data-bs-toggle="modal" data-bs-target="#diseaseModal"  >Disease</button>
+        <button class="button" data-bs-toggle="modal" data-bs-target="#descriptionModal" >Description</button>
+        <button class="button" data-bs-toggle="modal" data-bs-target="#precautionModal">Precaution</button>
+        <button class="button" data-bs-toggle="modal" data-bs-target="#medicationsModal" >Medications</button>
+        <button class="button" data-bs-toggle="modal" data-bs-target="#workoutsModal" >Workouts</button>
+        <button class="button" data-bs-toggle="modal" data-bs-target="#dietsModal" >Diets</button>
     </div>
 </div>
 
