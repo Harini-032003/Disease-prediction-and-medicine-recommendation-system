@@ -9,16 +9,16 @@
 7,7,Fungal infection,Eat foods rich in zinc
 8,8,Fungal infection,Include turmeric in diet
 9,9,Fungal infection,Eat fruits and vegetables
-10,10,Allergy,Avoid allergenic foods
-11,11,Allergy,Consume anti-inflammatory foods
-12,12,Allergy,Include omega-3 fatty acids
-13,13,Allergy,Stay hydrated
-14,14,Allergy,Eat foods rich in vitamin C
-15,15,Allergy,Include quercetin-rich foods
-16,16,Allergy,Consume local honey
-17,17,Allergy,Limit processed foods
-18,18,Allergy,Include ginger in diet
-19,19,Allergy,Avoid artificial additives
+10,10,typhoid,Avoid allergenic foods
+11,11,typhoid,Consume anti-inflammatory foods
+12,12,typhoid,Include omega-3 fatty acids
+13,13,typhoid,Stay hydrated
+14,14,typhoid,Eat foods rich in vitamin C
+15,15,typhoid,Include quercetin-rich foods
+16,16,typhoid,Consume local honey
+17,17,typhoid,Limit processed foods
+18,18,typhoid,Include ginger in diet
+19,19,typhoid,Avoid artificial additives
 20,20,GERD,Consume smaller meals
 21,21,GERD,"Avoid trigger foods (spicy, fatty)"
 22,22,GERD,Eat high-fiber foods
@@ -59,16 +59,16 @@
 57,57,Peptic ulcer disease,Include antioxidant-rich foods
 58,58,Peptic ulcer disease,Limit processed foods
 59,59,Peptic ulcer disease,Avoid smoking and alcohol
-60,60,AIDS,Follow a balanced and nutritious diet
-61,61,AIDS,Include lean proteins
-62,62,AIDS,Consume nutrient-rich foods
-63,63,AIDS,Stay hydrated
-64,64,AIDS,Include healthy fats
-65,65,AIDS,Avoid raw or undercooked foods
-66,66,AIDS,Limit sugary foods and beverages
-67,67,AIDS,Consume immune-boosting foods
-68,68,AIDS,Take prescribed supplements
-69,69,AIDS,Consult a healthcare professional
+60,60,viral fever,Follow a balanced and nutritious diet
+61,61,viral fever,Include lean proteins
+62,62,viral fever,Consume nutrient-rich foods
+63,63,viral fever,Stay hydrated
+64,64,viral fever,Include healthy fats
+65,65,viral fever,Avoid raw or undercooked foods
+66,66,viral fever,Limit sugary foods and beverages
+67,67,viral fever,Consume immune-boosting foods
+68,68,viral fever,Take prescribed supplements
+69,69,viral fever,Consult a healthcare professional
 70,70,Diabetes,Monitor carbohydrate intake
 71,71,Diabetes,Eat balanced meals
 72,72,Diabetes,Include lean proteins

@@ -1,11 +1,11 @@
 Disease,Diet
 Fungal infection,"['Antifungal Diet', 'Probiotics', 'Garlic', 'Coconut oil', 'Turmeric']"
-Allergy,"['Elimination Diet', 'Omega-3-rich foods', 'Vitamin C-rich foods', 'Quercetin-rich foods', 'Probiotics']"
+typhoid,"['Typhoid Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']"
 GERD,"['Low-Acid Diet', 'Fiber-rich foods', 'Ginger', 'Licorice', 'Aloe vera juice']"
 Chronic cholestasis,"['Low-Fat Diet', 'High-Fiber Diet', 'Lean proteins', 'Whole grains', 'Fresh fruits and vegetables']"
 Drug Reaction,"['Antihistamine Diet', 'Omega-3-rich foods', 'Vitamin C-rich foods', 'Quercetin-rich foods', 'Probiotics']"
 Peptic ulcer disease,"['Low-Acid Diet', 'Fiber-rich foods', 'Ginger', 'Licorice', 'Aloe vera juice']"
-AIDS,"['Balanced Diet', 'Protein-rich foods', 'Fruits and vegetables', 'Whole grains', 'Healthy fats']"
+viral fever,"['Balanced Diet', 'Protein-rich foods', 'Fruits and vegetables', 'Whole grains', 'Healthy fats']"
 Diabetes,"['Low-Glycemic Diet', 'Fiber-rich foods', 'Lean proteins', 'Healthy fats', 'Low-fat dairy']"
 Gastroenteritis,"['Bland Diet', 'Bananas', 'Rice', 'Applesauce', 'Toast']"
 Bronchial Asthma,"['Anti-Inflammatory Diet', 'Omega-3-rich foods', 'Fruits and vegetables', 'Whole grains', 'Lean proteins']"

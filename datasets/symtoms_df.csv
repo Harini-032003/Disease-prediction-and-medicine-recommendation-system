@@ -9,16 +9,16 @@
 7,Fungal infection,itching, skin rash, dischromic _patches,
 8,Fungal infection,itching, skin rash, nodal skin eruptions,
 9,Fungal infection,itching, skin rash, nodal skin eruptions, dischromic _patches
-10,Allergy, continuous sneezing, shivering, chills, watering_from_eyes
-11,Allergy, shivering, chills, watering_from_eyes,
-12,Allergy, continuous sneezing, chills, watering_from_eyes,
-13,Allergy, continuous sneezing, shivering, watering_from_eyes,
-14,Allergy, continuous sneezing, shivering, chills,
-15,Allergy, shivering, chills, watering_from_eyes,
-16,Allergy, continuous sneezing, chills, watering_from_eyes,
-17,Allergy, continuous sneezing, shivering, watering_from_eyes,
-18,Allergy, continuous sneezing, shivering, chills,
-19,Allergy, continuous sneezing, shivering, chills, watering_from_eyes
+10,typhoid, continuous sneezing, shivering, chills, watering_from_eyes
+11,typhoid, shivering, chills, watering_from_eyes,
+12,typhoid, continuous sneezing, chills, watering_from_eyes,
+13,typhoid, continuous sneezing, shivering, watering_from_eyes,
+14,typhoid, continuous sneezing, shivering, chills,
+15,typhoid, shivering, chills, watering_from_eyes,
+16,typhoid, continuous sneezing, chills, watering_from_eyes,
+17,typhoid, continuous sneezing, shivering, watering_from_eyes,
+18,typhoid, continuous sneezing, shivering, chills,
+19,typhoid, continuous sneezing, shivering, chills, watering_from_eyes
 20,GERD, stomach pain, acidity, ulcers on tongue, vomiting
 21,GERD, stomach pain, ulcers on tongue, vomiting, cough
 22,GERD, stomach pain, acidity, vomiting, cough
@@ -59,16 +59,16 @@
 57,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 58,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 59,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-60,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-61,AIDS, patches in throat, high fever, extra_marital_contacts,
-62,AIDS, muscle wasting, high fever, extra_marital_contacts,
-63,AIDS, muscle wasting, patches in throat, extra_marital_contacts,
-64,AIDS, muscle wasting, patches in throat, high fever,
-65,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-66,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-67,AIDS, patches in throat, high fever, extra_marital_contacts,
-68,AIDS, muscle wasting, high fever, extra_marital_contacts,
-69,AIDS, muscle wasting, patches in throat, high fever,
+60,viral fever, muscle wasting, patches in throat, high fever, extra_marital_contacts
+61,viral fever, patches in throat, high fever, extra_marital_contacts,
+62,viral fever, muscle wasting, high fever, extra_marital_contacts,
+63,viral fever, muscle wasting, patches in throat, extra_marital_contacts,
+64,viral fever, muscle wasting, patches in throat, high fever,
+65,viral fever, muscle wasting, patches in throat, high fever, extra_marital_contacts
+66,viral fever, muscle wasting, patches in throat, high fever, extra_marital_contacts
+67,viral fever, patches in throat, high fever, extra_marital_contacts,
+68,viral fever, muscle wasting, high fever, extra_marital_contacts,
+69,viral fever, muscle wasting, patches in throat, high fever,
 70,Diabetes , fatigue, weight loss, restlessness, lethargy
 71,Diabetes , fatigue, weight loss, restlessness, lethargy
 72,Diabetes , weight loss, restlessness, lethargy, irregular sugar level
@@ -179,16 +179,16 @@
 177,Dengue, skin rash, chills, joint pain, fatigue
 178,Dengue, skin rash, chills, joint pain, vomiting
 179,Dengue, skin rash, chills, joint pain, vomiting
-180,Typhoid, chills, vomiting, fatigue, high fever
-181,Typhoid, chills, vomiting, fatigue, high fever
-182,Typhoid, chills, vomiting, fatigue, high fever
-183,Typhoid, chills, vomiting, fatigue, high fever
-184,Typhoid, chills, vomiting, fatigue, high fever
-185,Typhoid, chills, vomiting, fatigue, high fever
-186,Typhoid, chills, vomiting, fatigue, high fever
-187,Typhoid, chills, vomiting, fatigue, high fever
-188,Typhoid, chills, vomiting, fatigue, high fever
-189,Typhoid, chills, fatigue, high fever, headache
+180,Allergy, chills, vomiting, fatigue, high fever
+181,Allergy, chills, vomiting, fatigue, high fever
+182,Allergy, chills, vomiting, fatigue, high fever
+183,Allergy, chills, vomiting, fatigue, high fever
+184,Allergy, chills, vomiting, fatigue, high fever
+185,Allergy, chills, vomiting, fatigue, high fever
+186,Allergy, chills, vomiting, fatigue, high fever
+187,Allergy, chills, vomiting, fatigue, high fever
+188,Allergy, chills, vomiting, fatigue, high fever
+189,Allergy, chills, fatigue, high fever, headache
 190,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 191,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 192,hepatitis A, vomiting, yellowish skin, dark urine, nausea
@@ -469,16 +469,16 @@
 467,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 468,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 469,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-470,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-471,AIDS, patches in throat, high fever, extra_marital_contacts,
-472,AIDS, muscle wasting, high fever, extra_marital_contacts,
-473,AIDS, muscle wasting, patches in throat, extra_marital_contacts,
-474,AIDS, muscle wasting, patches in throat, high fever,
-475,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-476,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-477,AIDS, patches in throat, high fever, extra_marital_contacts,
-478,AIDS, muscle wasting, high fever, extra_marital_contacts,
-479,AIDS, muscle wasting, patches in throat, high fever,
+470, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+471, cold, patches in throat, high fever, extra_marital_contacts,
+472, cold, muscle wasting, high fever, extra_marital_contacts,
+473, cold, muscle wasting, patches in throat, extra_marital_contacts,
+474, cold, muscle wasting, patches in throat, high fever,
+475, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+476, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+477, cold, patches in throat, high fever, extra_marital_contacts,
+478, cold, muscle wasting, high fever, extra_marital_contacts,
+479, cold, muscle wasting, patches in throat, high fever,
 480,Diabetes , fatigue, weight loss, restlessness, lethargy
 481,Diabetes , fatigue, weight loss, restlessness, lethargy
 482,Diabetes , weight loss, restlessness, lethargy, irregular sugar level
@@ -589,16 +589,16 @@
 587,Dengue, skin rash, chills, joint pain, fatigue
 588,Dengue, skin rash, chills, joint pain, vomiting
 589,Dengue, skin rash, chills, joint pain, vomiting
-590,Typhoid, chills, vomiting, fatigue, high fever
-591,Typhoid, chills, vomiting, fatigue, high fever
-592,Typhoid, chills, vomiting, fatigue, high fever
-593,Typhoid, chills, vomiting, fatigue, high fever
-594,Typhoid, chills, vomiting, fatigue, high fever
-595,Typhoid, chills, vomiting, fatigue, high fever
-596,Typhoid, chills, vomiting, fatigue, high fever
-597,Typhoid, chills, vomiting, fatigue, high fever
-598,Typhoid, chills, vomiting, fatigue, high fever
-599,Typhoid, chills, fatigue, high fever, headache
+590,Allergy, chills, vomiting, fatigue, high fever
+591,Allergy, chills, vomiting, fatigue, high fever
+592,Allergy, chills, vomiting, fatigue, high fever
+593,Allergy, chills, vomiting, fatigue, high fever
+594,Allergy, chills, vomiting, fatigue, high fever
+595,Allergy, chills, vomiting, fatigue, high fever
+596,Allergy, chills, vomiting, fatigue, high fever
+597,Allergy, chills, vomiting, fatigue, high fever
+598,Allergy, chills, vomiting, fatigue, high fever
+599,Allergy, chills, fatigue, high fever, headache
 600,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 601,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 602,hepatitis A, vomiting, yellowish skin, dark urine, nausea
@@ -879,16 +879,16 @@
 877,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 878,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 879,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-880,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-881,AIDS, patches in throat, high fever, extra_marital_contacts,
-882,AIDS, muscle wasting, high fever, extra_marital_contacts,
-883,AIDS, muscle wasting, patches in throat, extra_marital_contacts,
-884,AIDS, muscle wasting, patches in throat, high fever,
-885,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-886,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-887,AIDS, patches in throat, high fever, extra_marital_contacts,
-888,AIDS, muscle wasting, high fever, extra_marital_contacts,
-889,AIDS, muscle wasting, patches in throat, high fever,
+880, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+881, cold, patches in throat, high fever, extra_marital_contacts,
+882, cold, muscle wasting, high fever, extra_marital_contacts,
+883, cold, muscle wasting, patches in throat, extra_marital_contacts,
+884, cold, muscle wasting, patches in throat, high fever,
+885, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+886, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+887, cold, patches in throat, high fever, extra_marital_contacts,
+888, cold, muscle wasting, high fever, extra_marital_contacts,
+889, cold, muscle wasting, patches in throat, high fever,
 890,Diabetes , fatigue, weight loss, restlessness, lethargy
 891,Diabetes , fatigue, weight loss, restlessness, lethargy
 892,Diabetes , weight loss, restlessness, lethargy, irregular sugar level
@@ -999,16 +999,16 @@
 997,Dengue, skin rash, chills, joint pain, fatigue
 998,Dengue, skin rash, chills, joint pain, vomiting
 999,Dengue, skin rash, chills, joint pain, vomiting
-1000,Typhoid, chills, vomiting, fatigue, high fever
-1001,Typhoid, chills, vomiting, fatigue, high fever
-1002,Typhoid, chills, vomiting, fatigue, high fever
-1003,Typhoid, chills, vomiting, fatigue, high fever
-1004,Typhoid, chills, vomiting, fatigue, high fever
-1005,Typhoid, chills, vomiting, fatigue, high fever
-1006,Typhoid, chills, vomiting, fatigue, high fever
-1007,Typhoid, chills, vomiting, fatigue, high fever
-1008,Typhoid, chills, vomiting, fatigue, high fever
-1009,Typhoid, chills, fatigue, high fever, headache
+1000,Allergy, chills, vomiting, fatigue, high fever
+1001,Allergy, chills, vomiting, fatigue, high fever
+1002,Allergy, chills, vomiting, fatigue, high fever
+1003,Allergy, chills, vomiting, fatigue, high fever
+1004,Allergy, chills, vomiting, fatigue, high fever
+1005,Allergy, chills, vomiting, fatigue, high fever
+1006,Allergy, chills, vomiting, fatigue, high fever
+1007,Allergy, chills, vomiting, fatigue, high fever
+1008,Allergy, chills, vomiting, fatigue, high fever
+1009,Allergy, chills, fatigue, high fever, headache
 1010,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 1011,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 1012,hepatitis A, vomiting, yellowish skin, dark urine, nausea
@@ -1289,16 +1289,16 @@
 1287,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 1288,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 1289,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-1290,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-1291,AIDS, patches in throat, high fever, extra_marital_contacts,
-1292,AIDS, muscle wasting, high fever, extra_marital_contacts,
-1293,AIDS, muscle wasting, patches in throat, extra_marital_contacts,
-1294,AIDS, muscle wasting, patches in throat, high fever,
-1295,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-1296,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-1297,AIDS, patches in throat, high fever, extra_marital_contacts,
-1298,AIDS, muscle wasting, high fever, extra_marital_contacts,
-1299,AIDS, muscle wasting, patches in throat, high fever,
+1290, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+1291, cold, patches in throat, high fever, extra_marital_contacts,
+1292, cold, muscle wasting, high fever, extra_marital_contacts,
+1293, cold, muscle wasting, patches in throat, extra_marital_contacts,
+1294, cold, muscle wasting, patches in throat, high fever,
+1295, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+1296, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+1297, cold, patches in throat, high fever, extra_marital_contacts,
+1298, cold, muscle wasting, high fever, extra_marital_contacts,
+1299, cold, muscle wasting, patches in throat, high fever,
 1300,Diabetes , fatigue, weight loss, restlessness, lethargy
 1301,Diabetes , fatigue, weight loss, restlessness, lethargy
 1302,Diabetes , weight loss, restlessness, lethargy, irregular sugar level
@@ -1409,16 +1409,16 @@
 1407,Dengue, skin rash, chills, joint pain, fatigue
 1408,Dengue, skin rash, chills, joint pain, vomiting
 1409,Dengue, skin rash, chills, joint pain, vomiting
-1410,Typhoid, chills, vomiting, fatigue, high fever
-1411,Typhoid, chills, vomiting, fatigue, high fever
-1412,Typhoid, chills, vomiting, fatigue, high fever
-1413,Typhoid, chills, vomiting, fatigue, high fever
-1414,Typhoid, chills, vomiting, fatigue, high fever
-1415,Typhoid, chills, vomiting, fatigue, high fever
-1416,Typhoid, chills, vomiting, fatigue, high fever
-1417,Typhoid, chills, vomiting, fatigue, high fever
-1418,Typhoid, chills, vomiting, fatigue, high fever
-1419,Typhoid, chills, fatigue, high fever, headache
+1410,Allergy, chills, vomiting, fatigue, high fever
+1411,Allergy, chills, vomiting, fatigue, high fever
+1412,Allergy, chills, vomiting, fatigue, high fever
+1413,Allergy, chills, vomiting, fatigue, high fever
+1414,Allergy, chills, vomiting, fatigue, high fever
+1415,Allergy, chills, vomiting, fatigue, high fever
+1416,Allergy, chills, vomiting, fatigue, high fever
+1417,Allergy, chills, vomiting, fatigue, high fever
+1418,Allergy, chills, vomiting, fatigue, high fever
+1419,Allergy, chills, fatigue, high fever, headache
 1420,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 1421,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 1422,hepatitis A, vomiting, yellowish skin, dark urine, nausea
@@ -1699,16 +1699,16 @@
 1697,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 1698,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 1699,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-1700,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-1701,AIDS, patches in throat, high fever, extra_marital_contacts,
-1702,AIDS, muscle wasting, high fever, extra_marital_contacts,
-1703,AIDS, muscle wasting, patches in throat, extra_marital_contacts,
-1704,AIDS, muscle wasting, patches in throat, high fever,
-1705,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-1706,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-1707,AIDS, patches in throat, high fever, extra_marital_contacts,
-1708,AIDS, muscle wasting, high fever, extra_marital_contacts,
-1709,AIDS, muscle wasting, patches in throat, high fever,
+1700, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+1701, cold, patches in throat, high fever, extra_marital_contacts,
+1702, cold, muscle wasting, high fever, extra_marital_contacts,
+1703, cold, muscle wasting, patches in throat, extra_marital_contacts,
+1704, cold, muscle wasting, patches in throat, high fever,
+1705, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+1706, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+1707, cold, patches in throat, high fever, extra_marital_contacts,
+1708, cold, muscle wasting, high fever, extra_marital_contacts,
+1709, cold, muscle wasting, patches in throat, high fever,
 1710,Diabetes , fatigue, weight loss, restlessness, lethargy
 1711,Diabetes , fatigue, weight loss, restlessness, lethargy
 1712,Diabetes , weight loss, restlessness, lethargy, irregular sugar level
@@ -1819,16 +1819,16 @@
 1817,Dengue, skin rash, chills, joint pain, fatigue
 1818,Dengue, skin rash, chills, joint pain, vomiting
 1819,Dengue, skin rash, chills, joint pain, vomiting
-1820,Typhoid, chills, vomiting, fatigue, high fever
-1821,Typhoid, chills, vomiting, fatigue, high fever
-1822,Typhoid, chills, vomiting, fatigue, high fever
-1823,Typhoid, chills, vomiting, fatigue, high fever
-1824,Typhoid, chills, vomiting, fatigue, high fever
-1825,Typhoid, chills, vomiting, fatigue, high fever
-1826,Typhoid, chills, vomiting, fatigue, high fever
-1827,Typhoid, chills, vomiting, fatigue, high fever
-1828,Typhoid, chills, vomiting, fatigue, high fever
-1829,Typhoid, chills, fatigue, high fever, headache
+1820,Allergy, chills, vomiting, fatigue, high fever
+1821,Allergy, chills, vomiting, fatigue, high fever
+1822,Allergy, chills, vomiting, fatigue, high fever
+1823,Allergy, chills, vomiting, fatigue, high fever
+1824,Allergy, chills, vomiting, fatigue, high fever
+1825,Allergy, chills, vomiting, fatigue, high fever
+1826,Allergy, chills, vomiting, fatigue, high fever
+1827,Allergy, chills, vomiting, fatigue, high fever
+1828,Allergy, chills, vomiting, fatigue, high fever
+1829,Allergy, chills, fatigue, high fever, headache
 1830,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 1831,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 1832,hepatitis A, vomiting, yellowish skin, dark urine, nausea
@@ -2109,16 +2109,16 @@
 2107,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 2108,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
 2109,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2110,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-2111,AIDS, patches in throat, high fever, extra_marital_contacts,
-2112,AIDS, muscle wasting, high fever, extra_marital_contacts,
-2113,AIDS, muscle wasting, patches in throat, extra_marital_contacts,
-2114,AIDS, muscle wasting, patches in throat, high fever,
-2115,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-2116,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
-2117,AIDS, patches in throat, high fever, extra_marital_contacts,
-2118,AIDS, muscle wasting, high fever, extra_marital_contacts,
-2119,AIDS, muscle wasting, patches in throat, high fever,
+2110, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2111, cold, patches in throat, high fever, extra_marital_contacts,
+2112, cold, muscle wasting, high fever, extra_marital_contacts,
+2113, cold, muscle wasting, patches in throat, extra_marital_contacts,
+2114, cold, muscle wasting, patches in throat, high fever,
+2115, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2116, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2117, cold, patches in throat, high fever, extra_marital_contacts,
+2118, cold, muscle wasting, high fever, extra_marital_contacts,
+2119, cold, muscle wasting, patches in throat, high fever,
 2120,Diabetes , fatigue, weight loss, restlessness, lethargy
 2121,Diabetes , fatigue, weight loss, restlessness, lethargy
 2122,Diabetes , weight loss, restlessness, lethargy, irregular sugar level
@@ -2229,16 +2229,16 @@
 2227,Dengue, skin rash, chills, joint pain, fatigue
 2228,Dengue, skin rash, chills, joint pain, vomiting
 2229,Dengue, skin rash, chills, joint pain, vomiting
-2230,Typhoid, chills, vomiting, fatigue, high fever
-2231,Typhoid, chills, vomiting, fatigue, high fever
-2232,Typhoid, chills, vomiting, fatigue, high fever
-2233,Typhoid, chills, vomiting, fatigue, high fever
-2234,Typhoid, chills, vomiting, fatigue, high fever
-2235,Typhoid, chills, vomiting, fatigue, high fever
-2236,Typhoid, chills, vomiting, fatigue, high fever
-2237,Typhoid, chills, vomiting, fatigue, high fever
-2238,Typhoid, chills, vomiting, fatigue, high fever
-2239,Typhoid, chills, fatigue, high fever, headache
+2230,Allergy, chills, vomiting, fatigue, high fever
+2231,Allergy, chills, vomiting, fatigue, high fever
+2232,Allergy, chills, vomiting, fatigue, high fever
+2233,Allergy, chills, vomiting, fatigue, high fever
+2234,Allergy, chills, vomiting, fatigue, high fever
+2235,Allergy, chills, vomiting, fatigue, high fever
+2236,Allergy, chills, vomiting, fatigue, high fever
+2237,Allergy, chills, vomiting, fatigue, high fever
+2238,Allergy, chills, vomiting, fatigue, high fever
+2239,Allergy, chills, fatigue, high fever, headache
 2240,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2241,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2242,hepatitis A, vomiting, yellowish skin, dark urine, nausea
@@ -2465,7 +2465,7 @@
 2463,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2464,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2465,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2466,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2466, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2467,Diabetes , fatigue, weight loss, restlessness, lethargy
 2468,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2469,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2477,7 +2477,7 @@
 2475,Malaria, chills, vomiting, high fever, sweating
 2476,Chicken pox,itching, skin rash, fatigue, lethargy
 2477,Dengue, skin rash, chills, joint pain, vomiting
-2478,Typhoid, chills, vomiting, fatigue, high fever
+2478,Allergy, chills, vomiting, fatigue, high fever
 2479,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2480,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2481,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2506,7 +2506,7 @@
 2504,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2505,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2506,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2507,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2507, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2508,Diabetes , fatigue, weight loss, restlessness, lethargy
 2509,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2510,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2518,7 +2518,7 @@
 2516,Malaria, chills, vomiting, high fever, sweating
 2517,Chicken pox,itching, skin rash, fatigue, lethargy
 2518,Dengue, skin rash, chills, joint pain, vomiting
-2519,Typhoid, chills, vomiting, fatigue, high fever
+2519,Allergy, chills, vomiting, fatigue, high fever
 2520,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2521,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2522,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2547,7 +2547,7 @@
 2545,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2546,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2547,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2548,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2548, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2549,Diabetes , fatigue, weight loss, restlessness, lethargy
 2550,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2551,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2559,7 +2559,7 @@
 2557,Malaria, chills, vomiting, high fever, sweating
 2558,Chicken pox,itching, skin rash, fatigue, lethargy
 2559,Dengue, skin rash, chills, joint pain, vomiting
-2560,Typhoid, chills, vomiting, fatigue, high fever
+2560,Allergy, chills, vomiting, fatigue, high fever
 2561,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2562,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2563,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2588,7 +2588,7 @@
 2586,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2587,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2588,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2589,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2589, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2590,Diabetes , fatigue, weight loss, restlessness, lethargy
 2591,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2592,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2600,7 +2600,7 @@
 2598,Malaria, chills, vomiting, high fever, sweating
 2599,Chicken pox,itching, skin rash, fatigue, lethargy
 2600,Dengue, skin rash, chills, joint pain, vomiting
-2601,Typhoid, chills, vomiting, fatigue, high fever
+2601,Allergy, chills, vomiting, fatigue, high fever
 2602,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2603,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2604,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2629,7 +2629,7 @@
 2627,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2628,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2629,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2630,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2630, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2631,Diabetes , fatigue, weight loss, restlessness, lethargy
 2632,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2633,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2641,7 +2641,7 @@
 2639,Malaria, chills, vomiting, high fever, sweating
 2640,Chicken pox,itching, skin rash, fatigue, lethargy
 2641,Dengue, skin rash, chills, joint pain, vomiting
-2642,Typhoid, chills, vomiting, fatigue, high fever
+2642,Allergy, chills, vomiting, fatigue, high fever
 2643,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2644,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2645,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2670,7 +2670,7 @@
 2668,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2669,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2670,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2671,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2671, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2672,Diabetes , fatigue, weight loss, restlessness, lethargy
 2673,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2674,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2682,7 +2682,7 @@
 2680,Malaria, chills, vomiting, high fever, sweating
 2681,Chicken pox,itching, skin rash, fatigue, lethargy
 2682,Dengue, skin rash, chills, joint pain, vomiting
-2683,Typhoid, chills, vomiting, fatigue, high fever
+2683,Allergy, chills, vomiting, fatigue, high fever
 2684,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2685,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2686,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2711,7 +2711,7 @@
 2709,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2710,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2711,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2712,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2712, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2713,Diabetes , fatigue, weight loss, restlessness, lethargy
 2714,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2715,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2723,7 +2723,7 @@
 2721,Malaria, chills, vomiting, high fever, sweating
 2722,Chicken pox,itching, skin rash, fatigue, lethargy
 2723,Dengue, skin rash, chills, joint pain, vomiting
-2724,Typhoid, chills, vomiting, fatigue, high fever
+2724,Allergy, chills, vomiting, fatigue, high fever
 2725,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2726,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2727,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2752,7 +2752,7 @@
 2750,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2751,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2752,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2753,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2753, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2754,Diabetes , fatigue, weight loss, restlessness, lethargy
 2755,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2756,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2764,7 +2764,7 @@
 2762,Malaria, chills, vomiting, high fever, sweating
 2763,Chicken pox,itching, skin rash, fatigue, lethargy
 2764,Dengue, skin rash, chills, joint pain, vomiting
-2765,Typhoid, chills, vomiting, fatigue, high fever
+2765,Allergy, chills, vomiting, fatigue, high fever
 2766,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2767,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2768,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2793,7 +2793,7 @@
 2791,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2792,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2793,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2794,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2794, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2795,Diabetes , fatigue, weight loss, restlessness, lethargy
 2796,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2797,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2805,7 +2805,7 @@
 2803,Malaria, chills, vomiting, high fever, sweating
 2804,Chicken pox,itching, skin rash, fatigue, lethargy
 2805,Dengue, skin rash, chills, joint pain, vomiting
-2806,Typhoid, chills, vomiting, fatigue, high fever
+2806,Allergy, chills, vomiting, fatigue, high fever
 2807,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2808,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2809,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2834,7 +2834,7 @@
 2832,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2833,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2834,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2835,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2835, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2836,Diabetes , fatigue, weight loss, restlessness, lethargy
 2837,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2838,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2846,7 +2846,7 @@
 2844,Malaria, chills, vomiting, high fever, sweating
 2845,Chicken pox,itching, skin rash, fatigue, lethargy
 2846,Dengue, skin rash, chills, joint pain, vomiting
-2847,Typhoid, chills, vomiting, fatigue, high fever
+2847,Allergy, chills, vomiting, fatigue, high fever
 2848,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2849,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2850,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2875,7 +2875,7 @@
 2873,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2874,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2875,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2876,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2876, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2877,Diabetes , fatigue, weight loss, restlessness, lethargy
 2878,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2879,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2887,7 +2887,7 @@
 2885,Malaria, chills, vomiting, high fever, sweating
 2886,Chicken pox,itching, skin rash, fatigue, lethargy
 2887,Dengue, skin rash, chills, joint pain, vomiting
-2888,Typhoid, chills, vomiting, fatigue, high fever
+2888,Allergy, chills, vomiting, fatigue, high fever
 2889,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2890,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2891,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2916,7 +2916,7 @@
 2914,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2915,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2916,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2917,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2917, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2918,Diabetes , fatigue, weight loss, restlessness, lethargy
 2919,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2920,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2928,7 +2928,7 @@
 2926,Malaria, chills, vomiting, high fever, sweating
 2927,Chicken pox,itching, skin rash, fatigue, lethargy
 2928,Dengue, skin rash, chills, joint pain, vomiting
-2929,Typhoid, chills, vomiting, fatigue, high fever
+2929,Allergy, chills, vomiting, fatigue, high fever
 2930,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2931,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2932,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2957,7 +2957,7 @@
 2955,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2956,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2957,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2958,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2958, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 2959,Diabetes , fatigue, weight loss, restlessness, lethargy
 2960,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 2961,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -2969,7 +2969,7 @@
 2967,Malaria, chills, vomiting, high fever, sweating
 2968,Chicken pox,itching, skin rash, fatigue, lethargy
 2969,Dengue, skin rash, chills, joint pain, vomiting
-2970,Typhoid, chills, vomiting, fatigue, high fever
+2970,Allergy, chills, vomiting, fatigue, high fever
 2971,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 2972,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 2973,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -2998,7 +2998,7 @@
 2996,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 2997,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 2998,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-2999,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+2999, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3000,Diabetes , fatigue, weight loss, restlessness, lethargy
 3001,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3002,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3010,7 +3010,7 @@
 3008,Malaria, chills, vomiting, high fever, sweating
 3009,Chicken pox,itching, skin rash, fatigue, lethargy
 3010,Dengue, skin rash, chills, joint pain, vomiting
-3011,Typhoid, chills, vomiting, fatigue, high fever
+3011,Allergy, chills, vomiting, fatigue, high fever
 3012,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3013,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3014,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3039,7 +3039,7 @@
 3037,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3038,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3039,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3040,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3040, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3041,Diabetes , fatigue, weight loss, restlessness, lethargy
 3042,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3043,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3051,7 +3051,7 @@
 3049,Malaria, chills, vomiting, high fever, sweating
 3050,Chicken pox,itching, skin rash, fatigue, lethargy
 3051,Dengue, skin rash, chills, joint pain, vomiting
-3052,Typhoid, chills, vomiting, fatigue, high fever
+3052,Allergy, chills, vomiting, fatigue, high fever
 3053,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3054,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3055,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3080,7 +3080,7 @@
 3078,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3079,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3080,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3081,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3081, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3082,Diabetes , fatigue, weight loss, restlessness, lethargy
 3083,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3084,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3092,7 +3092,7 @@
 3090,Malaria, chills, vomiting, high fever, sweating
 3091,Chicken pox,itching, skin rash, fatigue, lethargy
 3092,Dengue, skin rash, chills, joint pain, vomiting
-3093,Typhoid, chills, vomiting, fatigue, high fever
+3093,Allergy, chills, vomiting, fatigue, high fever
 3094,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3095,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3096,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3121,7 +3121,7 @@
 3119,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3120,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3121,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3122,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3122, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3123,Diabetes , fatigue, weight loss, restlessness, lethargy
 3124,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3125,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3133,7 +3133,7 @@
 3131,Malaria, chills, vomiting, high fever, sweating
 3132,Chicken pox,itching, skin rash, fatigue, lethargy
 3133,Dengue, skin rash, chills, joint pain, vomiting
-3134,Typhoid, chills, vomiting, fatigue, high fever
+3134,Allergy, chills, vomiting, fatigue, high fever
 3135,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3136,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3137,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3162,7 +3162,7 @@
 3160,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3161,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3162,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3163,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3163, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3164,Diabetes , fatigue, weight loss, restlessness, lethargy
 3165,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3166,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3174,7 +3174,7 @@
 3172,Malaria, chills, vomiting, high fever, sweating
 3173,Chicken pox,itching, skin rash, fatigue, lethargy
 3174,Dengue, skin rash, chills, joint pain, vomiting
-3175,Typhoid, chills, vomiting, fatigue, high fever
+3175,Allergy, chills, vomiting, fatigue, high fever
 3176,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3177,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3178,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3203,7 +3203,7 @@
 3201,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3202,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3203,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3204,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3204, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3205,Diabetes , fatigue, weight loss, restlessness, lethargy
 3206,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3207,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3215,7 +3215,7 @@
 3213,Malaria, chills, vomiting, high fever, sweating
 3214,Chicken pox,itching, skin rash, fatigue, lethargy
 3215,Dengue, skin rash, chills, joint pain, vomiting
-3216,Typhoid, chills, vomiting, fatigue, high fever
+3216,Allergy, chills, vomiting, fatigue, high fever
 3217,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3218,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3219,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3244,7 +3244,7 @@
 3242,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3243,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3244,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3245,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3245, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3246,Diabetes , fatigue, weight loss, restlessness, lethargy
 3247,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3248,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3256,7 +3256,7 @@
 3254,Malaria, chills, vomiting, high fever, sweating
 3255,Chicken pox,itching, skin rash, fatigue, lethargy
 3256,Dengue, skin rash, chills, joint pain, vomiting
-3257,Typhoid, chills, vomiting, fatigue, high fever
+3257,Allergy, chills, vomiting, fatigue, high fever
 3258,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3259,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3260,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3285,7 +3285,7 @@
 3283,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3284,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3285,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3286,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3286, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3287,Diabetes , fatigue, weight loss, restlessness, lethargy
 3288,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3289,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3297,7 +3297,7 @@
 3295,Malaria, chills, vomiting, high fever, sweating
 3296,Chicken pox,itching, skin rash, fatigue, lethargy
 3297,Dengue, skin rash, chills, joint pain, vomiting
-3298,Typhoid, chills, vomiting, fatigue, high fever
+3298,Allergy, chills, vomiting, fatigue, high fever
 3299,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3300,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3301,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3326,7 +3326,7 @@
 3324,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3325,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3326,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3327,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3327, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3328,Diabetes , fatigue, weight loss, restlessness, lethargy
 3329,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3330,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3338,7 +3338,7 @@
 3336,Malaria, chills, vomiting, high fever, sweating
 3337,Chicken pox,itching, skin rash, fatigue, lethargy
 3338,Dengue, skin rash, chills, joint pain, vomiting
-3339,Typhoid, chills, vomiting, fatigue, high fever
+3339,Allergy, chills, vomiting, fatigue, high fever
 3340,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3341,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3342,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3367,7 +3367,7 @@
 3365,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3366,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3367,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3368,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3368, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3369,Diabetes , fatigue, weight loss, restlessness, lethargy
 3370,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3371,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3379,7 +3379,7 @@
 3377,Malaria, chills, vomiting, high fever, sweating
 3378,Chicken pox,itching, skin rash, fatigue, lethargy
 3379,Dengue, skin rash, chills, joint pain, vomiting
-3380,Typhoid, chills, vomiting, fatigue, high fever
+3380,Allergy, chills, vomiting, fatigue, high fever
 3381,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3382,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3383,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3408,7 +3408,7 @@
 3406,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3407,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3408,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3409,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3409, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3410,Diabetes , fatigue, weight loss, restlessness, lethargy
 3411,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3412,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3420,7 +3420,7 @@
 3418,Malaria, chills, vomiting, high fever, sweating
 3419,Chicken pox,itching, skin rash, fatigue, lethargy
 3420,Dengue, skin rash, chills, joint pain, vomiting
-3421,Typhoid, chills, vomiting, fatigue, high fever
+3421,Allergy, chills, vomiting, fatigue, high fever
 3422,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3423,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3424,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3449,7 +3449,7 @@
 3447,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3448,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3449,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3450,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3450, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3451,Diabetes , fatigue, weight loss, restlessness, lethargy
 3452,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3453,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3461,7 +3461,7 @@
 3459,Malaria, chills, vomiting, high fever, sweating
 3460,Chicken pox,itching, skin rash, fatigue, lethargy
 3461,Dengue, skin rash, chills, joint pain, vomiting
-3462,Typhoid, chills, vomiting, fatigue, high fever
+3462,Allergy, chills, vomiting, fatigue, high fever
 3463,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3464,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3465,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3490,7 +3490,7 @@
 3488,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3489,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3490,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3491,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3491, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3492,Diabetes , fatigue, weight loss, restlessness, lethargy
 3493,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3494,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3502,7 +3502,7 @@
 3500,Malaria, chills, vomiting, high fever, sweating
 3501,Chicken pox,itching, skin rash, fatigue, lethargy
 3502,Dengue, skin rash, chills, joint pain, vomiting
-3503,Typhoid, chills, vomiting, fatigue, high fever
+3503,Allergy, chills, vomiting, fatigue, high fever
 3504,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3505,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3506,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3531,7 +3531,7 @@
 3529,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3530,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3531,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3532,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3532, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3533,Diabetes , fatigue, weight loss, restlessness, lethargy
 3534,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3535,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3543,7 +3543,7 @@
 3541,Malaria, chills, vomiting, high fever, sweating
 3542,Chicken pox,itching, skin rash, fatigue, lethargy
 3543,Dengue, skin rash, chills, joint pain, vomiting
-3544,Typhoid, chills, vomiting, fatigue, high fever
+3544,Allergy, chills, vomiting, fatigue, high fever
 3545,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3546,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3547,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3572,7 +3572,7 @@
 3570,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3571,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3572,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3573,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3573, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3574,Diabetes , fatigue, weight loss, restlessness, lethargy
 3575,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3576,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3584,7 +3584,7 @@
 3582,Malaria, chills, vomiting, high fever, sweating
 3583,Chicken pox,itching, skin rash, fatigue, lethargy
 3584,Dengue, skin rash, chills, joint pain, vomiting
-3585,Typhoid, chills, vomiting, fatigue, high fever
+3585,Allergy, chills, vomiting, fatigue, high fever
 3586,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3587,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3588,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3613,7 +3613,7 @@
 3611,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3612,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3613,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3614,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3614, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3615,Diabetes , fatigue, weight loss, restlessness, lethargy
 3616,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3617,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3625,7 +3625,7 @@
 3623,Malaria, chills, vomiting, high fever, sweating
 3624,Chicken pox,itching, skin rash, fatigue, lethargy
 3625,Dengue, skin rash, chills, joint pain, vomiting
-3626,Typhoid, chills, vomiting, fatigue, high fever
+3626,Allergy, chills, vomiting, fatigue, high fever
 3627,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3628,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3629,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3654,7 +3654,7 @@
 3652,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3653,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3654,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3655,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3655, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3656,Diabetes , fatigue, weight loss, restlessness, lethargy
 3657,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3658,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3666,7 +3666,7 @@
 3664,Malaria, chills, vomiting, high fever, sweating
 3665,Chicken pox,itching, skin rash, fatigue, lethargy
 3666,Dengue, skin rash, chills, joint pain, vomiting
-3667,Typhoid, chills, vomiting, fatigue, high fever
+3667,Allergy, chills, vomiting, fatigue, high fever
 3668,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3669,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3670,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3695,7 +3695,7 @@
 3693,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3694,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3695,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3696,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3696, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3697,Diabetes , fatigue, weight loss, restlessness, lethargy
 3698,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3699,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3707,7 +3707,7 @@
 3705,Malaria, chills, vomiting, high fever, sweating
 3706,Chicken pox,itching, skin rash, fatigue, lethargy
 3707,Dengue, skin rash, chills, joint pain, vomiting
-3708,Typhoid, chills, vomiting, fatigue, high fever
+3708,Allergy, chills, vomiting, fatigue, high fever
 3709,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3710,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3711,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3736,7 +3736,7 @@
 3734,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3735,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3736,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3737,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3737, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3738,Diabetes , fatigue, weight loss, restlessness, lethargy
 3739,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3740,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3748,7 +3748,7 @@
 3746,Malaria, chills, vomiting, high fever, sweating
 3747,Chicken pox,itching, skin rash, fatigue, lethargy
 3748,Dengue, skin rash, chills, joint pain, vomiting
-3749,Typhoid, chills, vomiting, fatigue, high fever
+3749,Allergy, chills, vomiting, fatigue, high fever
 3750,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3751,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3752,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3777,7 +3777,7 @@
 3775,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3776,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3777,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3778,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3778, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3779,Diabetes , fatigue, weight loss, restlessness, lethargy
 3780,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3781,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3789,7 +3789,7 @@
 3787,Malaria, chills, vomiting, high fever, sweating
 3788,Chicken pox,itching, skin rash, fatigue, lethargy
 3789,Dengue, skin rash, chills, joint pain, vomiting
-3790,Typhoid, chills, vomiting, fatigue, high fever
+3790,Allergy, chills, vomiting, fatigue, high fever
 3791,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3792,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3793,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3818,7 +3818,7 @@
 3816,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3817,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3818,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3819,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3819, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3820,Diabetes , fatigue, weight loss, restlessness, lethargy
 3821,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3822,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3830,7 +3830,7 @@
 3828,Malaria, chills, vomiting, high fever, sweating
 3829,Chicken pox,itching, skin rash, fatigue, lethargy
 3830,Dengue, skin rash, chills, joint pain, vomiting
-3831,Typhoid, chills, vomiting, fatigue, high fever
+3831,Allergy, chills, vomiting, fatigue, high fever
 3832,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3833,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3834,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3859,7 +3859,7 @@
 3857,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3858,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3859,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3860,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3860, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3861,Diabetes , fatigue, weight loss, restlessness, lethargy
 3862,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3863,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3871,7 +3871,7 @@
 3869,Malaria, chills, vomiting, high fever, sweating
 3870,Chicken pox,itching, skin rash, fatigue, lethargy
 3871,Dengue, skin rash, chills, joint pain, vomiting
-3872,Typhoid, chills, vomiting, fatigue, high fever
+3872,Allergy, chills, vomiting, fatigue, high fever
 3873,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3874,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3875,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3900,7 +3900,7 @@
 3898,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3899,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3900,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3901,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3901, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3902,Diabetes , fatigue, weight loss, restlessness, lethargy
 3903,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3904,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3912,7 +3912,7 @@
 3910,Malaria, chills, vomiting, high fever, sweating
 3911,Chicken pox,itching, skin rash, fatigue, lethargy
 3912,Dengue, skin rash, chills, joint pain, vomiting
-3913,Typhoid, chills, vomiting, fatigue, high fever
+3913,Allergy, chills, vomiting, fatigue, high fever
 3914,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3915,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3916,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3941,7 +3941,7 @@
 3939,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3940,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3941,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3942,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3942, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3943,Diabetes , fatigue, weight loss, restlessness, lethargy
 3944,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3945,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3953,7 +3953,7 @@
 3951,Malaria, chills, vomiting, high fever, sweating
 3952,Chicken pox,itching, skin rash, fatigue, lethargy
 3953,Dengue, skin rash, chills, joint pain, vomiting
-3954,Typhoid, chills, vomiting, fatigue, high fever
+3954,Allergy, chills, vomiting, fatigue, high fever
 3955,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3956,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3957,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -3982,7 +3982,7 @@
 3980,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 3981,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 3982,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-3983,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+3983, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 3984,Diabetes , fatigue, weight loss, restlessness, lethargy
 3985,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 3986,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -3994,7 +3994,7 @@
 3992,Malaria, chills, vomiting, high fever, sweating
 3993,Chicken pox,itching, skin rash, fatigue, lethargy
 3994,Dengue, skin rash, chills, joint pain, vomiting
-3995,Typhoid, chills, vomiting, fatigue, high fever
+3995,Allergy, chills, vomiting, fatigue, high fever
 3996,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 3997,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 3998,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4023,7 +4023,7 @@
 4021,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4022,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4023,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4024,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4024, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4025,Diabetes , fatigue, weight loss, restlessness, lethargy
 4026,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4027,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4035,7 +4035,7 @@
 4033,Malaria, chills, vomiting, high fever, sweating
 4034,Chicken pox,itching, skin rash, fatigue, lethargy
 4035,Dengue, skin rash, chills, joint pain, vomiting
-4036,Typhoid, chills, vomiting, fatigue, high fever
+4036,Allergy, chills, vomiting, fatigue, high fever
 4037,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4038,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4039,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4064,7 +4064,7 @@
 4062,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4063,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4064,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4065,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4065, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4066,Diabetes , fatigue, weight loss, restlessness, lethargy
 4067,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4068,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4076,7 +4076,7 @@
 4074,Malaria, chills, vomiting, high fever, sweating
 4075,Chicken pox,itching, skin rash, fatigue, lethargy
 4076,Dengue, skin rash, chills, joint pain, vomiting
-4077,Typhoid, chills, vomiting, fatigue, high fever
+4077,Allergy, chills, vomiting, fatigue, high fever
 4078,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4079,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4080,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4105,7 +4105,7 @@
 4103,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4104,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4105,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4106,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4106, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4107,Diabetes , fatigue, weight loss, restlessness, lethargy
 4108,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4109,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4117,7 +4117,7 @@
 4115,Malaria, chills, vomiting, high fever, sweating
 4116,Chicken pox,itching, skin rash, fatigue, lethargy
 4117,Dengue, skin rash, chills, joint pain, vomiting
-4118,Typhoid, chills, vomiting, fatigue, high fever
+4118,Allergy, chills, vomiting, fatigue, high fever
 4119,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4120,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4121,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4146,7 +4146,7 @@
 4144,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4145,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4146,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4147,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4147, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4148,Diabetes , fatigue, weight loss, restlessness, lethargy
 4149,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4150,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4158,7 +4158,7 @@
 4156,Malaria, chills, vomiting, high fever, sweating
 4157,Chicken pox,itching, skin rash, fatigue, lethargy
 4158,Dengue, skin rash, chills, joint pain, vomiting
-4159,Typhoid, chills, vomiting, fatigue, high fever
+4159,Allergy, chills, vomiting, fatigue, high fever
 4160,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4161,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4162,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4187,7 +4187,7 @@
 4185,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4186,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4187,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4188,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4188, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4189,Diabetes , fatigue, weight loss, restlessness, lethargy
 4190,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4191,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4199,7 +4199,7 @@
 4197,Malaria, chills, vomiting, high fever, sweating
 4198,Chicken pox,itching, skin rash, fatigue, lethargy
 4199,Dengue, skin rash, chills, joint pain, vomiting
-4200,Typhoid, chills, vomiting, fatigue, high fever
+4200,Allergy, chills, vomiting, fatigue, high fever
 4201,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4202,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4203,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4228,7 +4228,7 @@
 4226,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4227,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4228,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4229,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4229, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4230,Diabetes , fatigue, weight loss, restlessness, lethargy
 4231,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4232,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4240,7 +4240,7 @@
 4238,Malaria, chills, vomiting, high fever, sweating
 4239,Chicken pox,itching, skin rash, fatigue, lethargy
 4240,Dengue, skin rash, chills, joint pain, vomiting
-4241,Typhoid, chills, vomiting, fatigue, high fever
+4241,Allergy, chills, vomiting, fatigue, high fever
 4242,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4243,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4244,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4269,7 +4269,7 @@
 4267,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4268,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4269,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4270,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4270, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4271,Diabetes , fatigue, weight loss, restlessness, lethargy
 4272,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4273,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4281,7 +4281,7 @@
 4279,Malaria, chills, vomiting, high fever, sweating
 4280,Chicken pox,itching, skin rash, fatigue, lethargy
 4281,Dengue, skin rash, chills, joint pain, vomiting
-4282,Typhoid, chills, vomiting, fatigue, high fever
+4282,Allergy, chills, vomiting, fatigue, high fever
 4283,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4284,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4285,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4310,7 +4310,7 @@
 4308,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4309,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4310,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4311,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4311, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4312,Diabetes , fatigue, weight loss, restlessness, lethargy
 4313,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4314,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4322,7 +4322,7 @@
 4320,Malaria, chills, vomiting, high fever, sweating
 4321,Chicken pox,itching, skin rash, fatigue, lethargy
 4322,Dengue, skin rash, chills, joint pain, vomiting
-4323,Typhoid, chills, vomiting, fatigue, high fever
+4323,Allergy, chills, vomiting, fatigue, high fever
 4324,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4325,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4326,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4351,7 +4351,7 @@
 4349,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4350,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4351,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4352,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4352, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4353,Diabetes , fatigue, weight loss, restlessness, lethargy
 4354,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4355,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4363,7 +4363,7 @@
 4361,Malaria, chills, vomiting, high fever, sweating
 4362,Chicken pox,itching, skin rash, fatigue, lethargy
 4363,Dengue, skin rash, chills, joint pain, vomiting
-4364,Typhoid, chills, vomiting, fatigue, high fever
+4364,Allergy, chills, vomiting, fatigue, high fever
 4365,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4366,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4367,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4392,7 +4392,7 @@
 4390,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4391,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4392,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4393,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4393, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4394,Diabetes , fatigue, weight loss, restlessness, lethargy
 4395,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4396,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4404,7 +4404,7 @@
 4402,Malaria, chills, vomiting, high fever, sweating
 4403,Chicken pox,itching, skin rash, fatigue, lethargy
 4404,Dengue, skin rash, chills, joint pain, vomiting
-4405,Typhoid, chills, vomiting, fatigue, high fever
+4405,Allergy, chills, vomiting, fatigue, high fever
 4406,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4407,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4408,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4433,7 +4433,7 @@
 4431,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4432,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4433,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4434,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4434, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4435,Diabetes , fatigue, weight loss, restlessness, lethargy
 4436,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4437,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4445,7 +4445,7 @@
 4443,Malaria, chills, vomiting, high fever, sweating
 4444,Chicken pox,itching, skin rash, fatigue, lethargy
 4445,Dengue, skin rash, chills, joint pain, vomiting
-4446,Typhoid, chills, vomiting, fatigue, high fever
+4446,Allergy, chills, vomiting, fatigue, high fever
 4447,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4448,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4449,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4474,7 +4474,7 @@
 4472,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4473,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4474,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4475,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4475, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4476,Diabetes , fatigue, weight loss, restlessness, lethargy
 4477,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4478,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4486,7 +4486,7 @@
 4484,Malaria, chills, vomiting, high fever, sweating
 4485,Chicken pox,itching, skin rash, fatigue, lethargy
 4486,Dengue, skin rash, chills, joint pain, vomiting
-4487,Typhoid, chills, vomiting, fatigue, high fever
+4487,Allergy, chills, vomiting, fatigue, high fever
 4488,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4489,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4490,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4515,7 +4515,7 @@
 4513,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4514,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4515,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4516,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4516, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4517,Diabetes , fatigue, weight loss, restlessness, lethargy
 4518,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4519,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4527,7 +4527,7 @@
 4525,Malaria, chills, vomiting, high fever, sweating
 4526,Chicken pox,itching, skin rash, fatigue, lethargy
 4527,Dengue, skin rash, chills, joint pain, vomiting
-4528,Typhoid, chills, vomiting, fatigue, high fever
+4528,Allergy, chills, vomiting, fatigue, high fever
 4529,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4530,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4531,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4556,7 +4556,7 @@
 4554,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4555,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4556,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4557,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4557, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4558,Diabetes , fatigue, weight loss, restlessness, lethargy
 4559,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4560,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4568,7 +4568,7 @@
 4566,Malaria, chills, vomiting, high fever, sweating
 4567,Chicken pox,itching, skin rash, fatigue, lethargy
 4568,Dengue, skin rash, chills, joint pain, vomiting
-4569,Typhoid, chills, vomiting, fatigue, high fever
+4569,Allergy, chills, vomiting, fatigue, high fever
 4570,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4571,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4572,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4597,7 +4597,7 @@
 4595,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4596,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4597,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4598,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4598, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4599,Diabetes , fatigue, weight loss, restlessness, lethargy
 4600,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4601,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4609,7 +4609,7 @@
 4607,Malaria, chills, vomiting, high fever, sweating
 4608,Chicken pox,itching, skin rash, fatigue, lethargy
 4609,Dengue, skin rash, chills, joint pain, vomiting
-4610,Typhoid, chills, vomiting, fatigue, high fever
+4610,Allergy, chills, vomiting, fatigue, high fever
 4611,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4612,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4613,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4638,7 +4638,7 @@
 4636,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4637,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4638,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4639,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4639, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4640,Diabetes , fatigue, weight loss, restlessness, lethargy
 4641,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4642,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4650,7 +4650,7 @@
 4648,Malaria, chills, vomiting, high fever, sweating
 4649,Chicken pox,itching, skin rash, fatigue, lethargy
 4650,Dengue, skin rash, chills, joint pain, vomiting
-4651,Typhoid, chills, vomiting, fatigue, high fever
+4651,Allergy, chills, vomiting, fatigue, high fever
 4652,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4653,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4654,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4679,7 +4679,7 @@
 4677,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4678,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4679,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4680,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4680, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4681,Diabetes , fatigue, weight loss, restlessness, lethargy
 4682,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4683,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4691,7 +4691,7 @@
 4689,Malaria, chills, vomiting, high fever, sweating
 4690,Chicken pox,itching, skin rash, fatigue, lethargy
 4691,Dengue, skin rash, chills, joint pain, vomiting
-4692,Typhoid, chills, vomiting, fatigue, high fever
+4692,Allergy, chills, vomiting, fatigue, high fever
 4693,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4694,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4695,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4720,7 +4720,7 @@
 4718,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4719,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4720,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4721,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4721, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4722,Diabetes , fatigue, weight loss, restlessness, lethargy
 4723,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4724,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4732,7 +4732,7 @@
 4730,Malaria, chills, vomiting, high fever, sweating
 4731,Chicken pox,itching, skin rash, fatigue, lethargy
 4732,Dengue, skin rash, chills, joint pain, vomiting
-4733,Typhoid, chills, vomiting, fatigue, high fever
+4733,Allergy, chills, vomiting, fatigue, high fever
 4734,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4735,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4736,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4761,7 +4761,7 @@
 4759,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4760,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4761,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4762,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4762, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4763,Diabetes , fatigue, weight loss, restlessness, lethargy
 4764,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4765,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4773,7 +4773,7 @@
 4771,Malaria, chills, vomiting, high fever, sweating
 4772,Chicken pox,itching, skin rash, fatigue, lethargy
 4773,Dengue, skin rash, chills, joint pain, vomiting
-4774,Typhoid, chills, vomiting, fatigue, high fever
+4774,Allergy, chills, vomiting, fatigue, high fever
 4775,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4776,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4777,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4802,7 +4802,7 @@
 4800,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4801,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4802,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4803,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4803, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4804,Diabetes , fatigue, weight loss, restlessness, lethargy
 4805,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4806,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4814,7 +4814,7 @@
 4812,Malaria, chills, vomiting, high fever, sweating
 4813,Chicken pox,itching, skin rash, fatigue, lethargy
 4814,Dengue, skin rash, chills, joint pain, vomiting
-4815,Typhoid, chills, vomiting, fatigue, high fever
+4815,Allergy, chills, vomiting, fatigue, high fever
 4816,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4817,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4818,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4843,7 +4843,7 @@
 4841,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4842,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4843,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4844,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4844, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4845,Diabetes , fatigue, weight loss, restlessness, lethargy
 4846,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4847,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4855,7 +4855,7 @@
 4853,Malaria, chills, vomiting, high fever, sweating
 4854,Chicken pox,itching, skin rash, fatigue, lethargy
 4855,Dengue, skin rash, chills, joint pain, vomiting
-4856,Typhoid, chills, vomiting, fatigue, high fever
+4856,Allergy, chills, vomiting, fatigue, high fever
 4857,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4858,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4859,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
@@ -4884,7 +4884,7 @@
 4882,Chronic cholestasis,itching, vomiting, yellowish skin, nausea
 4883,Drug Reaction,itching, skin rash, stomach pain, burning micturition
 4884,Peptic ulcer diseae, vomiting, indigestion, loss of appetite, abdominal pain
-4885,AIDS, muscle wasting, patches in throat, high fever, extra_marital_contacts
+4885, cold, muscle wasting, patches in throat, high fever, extra_marital_contacts
 4886,Diabetes , fatigue, weight loss, restlessness, lethargy
 4887,Gastroenteritis, vomiting, sunken eyes, dehydration, diarrhoea
 4888,Bronchial Asthma, fatigue, cough, high fever, breathlessness
@@ -4896,7 +4896,7 @@
 4894,Malaria, chills, vomiting, high fever, sweating
 4895,Chicken pox,itching, skin rash, fatigue, lethargy
 4896,Dengue, skin rash, chills, joint pain, vomiting
-4897,Typhoid, chills, vomiting, fatigue, high fever
+4897,Allergy, chills, vomiting, fatigue, high fever
 4898,hepatitis A, joint pain, vomiting, yellowish skin, dark urine
 4899,Hepatitis B,itching, fatigue, lethargy, yellowish skin
 4900,Hepatitis C, fatigue, yellowish skin, nausea, loss of appetite
