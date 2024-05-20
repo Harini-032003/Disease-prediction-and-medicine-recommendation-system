@@ -41,6 +41,7 @@
             border-radius: 15px;
             box-shadow: 0 9px #999;
             margin-left:35px;
+            margin-right:35px;
           }
           
           .button:hover {background-color: #943232}
@@ -129,12 +130,11 @@
 <h1 class="text-center my-4 mt-4">Our AI System Results</h1>
 <div class="container">
 
-    <div class="result-container">
+    <div class="result-container" style="display:flex;justify-content:center">
         <!-- Buttons to toggle display -->
         <button class="button" data-bs-toggle="modal" data-bs-target="#diseaseModal"  >Disease</button>
         <button class="button" data-bs-toggle="modal" data-bs-target="#descriptionModal" >Description</button>
         <button class="button" data-bs-toggle="modal" data-bs-target="#precautionModal">Precaution</button>
-        <button class="button" data-bs-toggle="modal" data-bs-target="#medicationsModal" >Medications</button>
         <button class="button" data-bs-toggle="modal" data-bs-target="#workoutsModal" >Workouts</button>
         <button class="button" data-bs-toggle="modal" data-bs-target="#dietsModal" >Diets</button>
     </div>
